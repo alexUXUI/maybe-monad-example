@@ -9,6 +9,7 @@
     "test": "mocha -- ./specs/*.js"
   },
   "dependencies": {
+    "axios": "^0.17.1",
     "chai": "^4.1.2",
     "mocha": "^4.0.1"
   }
